@@ -1,9 +1,9 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
+int main() {
     int x;
-    cin>> x;
+    cin >> x;
     cout << x*x;
     return 0;
 }
