@@ -5,6 +5,6 @@ int main() {
     string name = "Gaurav";
     int age = 19;
     double height = 5.6;
-    cout << name << " is " << age << " yeras old and " << height << "feet tall.";
+    cout << name << " is " << age << " yeras old and " << height << " feet tall.";
     return 0;
 }
