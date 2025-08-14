@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main (){
-int items = 100;
-int cost_per_item = 10;
+int items = 200;
+int cost_per_item = 20;
 int total_cost = items * cost_per_item;
 char currency = '$';
 cout << "Number of items: " << items << "\n";
