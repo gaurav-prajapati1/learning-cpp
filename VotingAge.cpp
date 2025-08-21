@@ -6,9 +6,9 @@ int main(){
     cin >> myAge;
     int votingAge = 18;
     if (myAge >= votingAge){
-        cout << "Old enough for vote!";
+        cout << "Eligible for vote.";
     } else {
-        cout << "Not old enough for vote.";
+        cout << "Not eligible for vote.";
     }
     return 0;
 }
